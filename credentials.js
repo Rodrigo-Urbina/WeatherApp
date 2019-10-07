@@ -1,0 +1,3 @@
+module.exports.MAPBOX_TOKEN = 'pk.eyJ1Ijoic2hhZG93c2VtcGVyb3IiLCJhIjoiY2sxZ3pvd3V1MDB0aDNocGZ0ZmZidmp5ZyJ9.TtpT1_UeVwtOoktm9_pWqQ'
+
+module.exports.DARK_SKY_SECRET_KEY = 'f87395b45c7edc8e78943c1b08c2d39b'
